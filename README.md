@@ -18,7 +18,7 @@ import (
   "fmt"
   "os/exec"
 
-  "github.com/zautumnz/get-terminal"
+  "github.com/zautumnz/getterminal"
 )
 
 func main() {
