@@ -1,3 +1,3 @@
-module github.com/zacanger/getterminal
+module github.com/zautumnz/getterminal
 
-go 1.14
+go 1.25

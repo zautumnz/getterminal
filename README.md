@@ -2,14 +2,12 @@
 
 --------
 
-[Donate](https://ko-fi.com/zacanger)
-
 Get the best terminal the user has installed. Go port of my Node package
 [get-term](https://npm.im/get-term).
 
 ## Installation
 
-`go get github.com/zacanger/getterminal`
+`go get github.com/zautumnz/getterminal`
 
 ## Usage
 
@@ -20,7 +18,7 @@ import (
   "fmt"
   "os/exec"
 
-  "github.com/zacanger/get-terminal"
+  "github.com/zautumnz/get-terminal"
 )
 
 func main() {
